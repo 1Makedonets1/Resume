@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    padding: 1%;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 40%;
+    margin-left: 30%;
+}
+.hed {
+    display: flex;
+    justify-content: space-evenly;
+}
+.inform {
+    width: 60%;
+}
+.inform__cap {
+    padding-top: 10%;
+}
+.photo {
+    width: 40%;
+}
